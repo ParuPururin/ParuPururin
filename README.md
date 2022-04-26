@@ -63,11 +63,11 @@
         style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/ParuPururin/ParuPururin/main/logo/Instagram.svg" width="64">
     </a>
-    <a href="https://www.notion.so/pururin-learn/Comienza-o-continua-el-viaje-3b91852ce3a248d5b4d390498e889110"
+    <a href="https://parudaisu.notion.site/parudaisu/Wiki-25405b512200479ca68e34854eeb5eae"
         style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/ParuPururin/ParuPururin/main/logo/Notion.png" width="64">
     </a>
-    <a href="https://www.notion.so/pururin-learn/Start-or-continue-the-journey-70d19733f5a045e09b0ed6957d3ba711"
+    <a href="https://calm-specialist-207.notion.site/SMART-Board-111ba56f817b4425941bb4ed2830b085"
         target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/ParuPururin/ParuPururin/main/logo/Notion.png" width="64">
     </a>
