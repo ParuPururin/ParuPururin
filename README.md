@@ -67,7 +67,7 @@
         style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/ParuPururin/ParuPururin/main/logo/Notion.png" width="64">
     </a>
-    <a href="https://calm-specialist-207.notion.site/SMART-Board-111ba56f817b4425941bb4ed2830b085"
+    <a href="https://www.notion.so/parudaisu/Code-Tracker-70d19733f5a045e09b0ed6957d3ba711"
         target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/ParuPururin/ParuPururin/main/logo/Notion.png" width="64">
     </a>
